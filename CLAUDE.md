@@ -29,7 +29,8 @@ Part1/
   EDA.py                               exploratory data analysis       -> eda_results/*.csv, eda_results/figures/*.png
   Report_Part1.md                      the report (source of the PDF)
   build_report.py                      Report_Part1.md -> Report_Part1.pdf (pandoc + XeLaTeX)
-  Report_Part1.pdf                     the deliverable
+  Report_Part1.pdf                     the deliverable (short: setup and file map live in README.md)
+README.md                              how to run, and which file backs each report section
 ```
 
 ## How to run
@@ -94,9 +95,9 @@ Part1/
 | Report section | Evidence |
 |---|---|
 | 1.1 (t-shirt) | `data_checks_results/preprocessing_checks.csv` |
-| 2.3 field profile | `field_selection_results/field_profile.csv` |
-| 2.4 and 2.5 evaluation | `ablation.csv`, `combinations.csv`, `rankings.csv`, `field_values.csv`, `query_term_matches.csv` |
-| 3.3 numeric fields | `data_checks_results/numeric_fields.csv` |
+| 2.2 field profile | `field_selection_results/field_profile.csv` |
+| 2.3 and 2.4 evaluation | `ablation.csv`, `combinations.csv`, `rankings.csv`, `field_values.csv`, `query_term_matches.csv` |
+| 3 numeric fields | `data_checks_results/numeric_fields.csv` |
 | 4 exploratory analysis | `eda_results/*.csv` (each table names its file), figures in `eda_results/figures/` |
 
 Do not edit the CSV files by hand; they are generated.

@@ -55,18 +55,11 @@ def word_counts():
         processed = [len(doc["processed"][field]) for _, doc in selected]
         rows.append({"field": field, "empty": len(docs) - len(selected), "kind": "raw", **stats(raw)})
         rows.append({"field": field, "empty": len(docs) - len(selected), "kind": "processed", **stats(processed)})
-
-    fig, axes = plt.subplots(1, 2, figsize=(10, 3.5))
-    for ax, field, bins in zip(axes, ["title", "description"], [range(0, 21), range(0, 305, 5)]):
-        counts = [len(raw_tokens(product, field)) for product in products if raw_tokens(product, field)]
-        ax.hist(counts, bins=bins, color=COLOR)
-        ax.set(title=f"Words per {field} (non-empty)", xlabel=f"words (cut at {bins[-1]})", ylabel="products")
-    save_figure(fig, "word_count_hist")
     return pd.DataFrame(rows)
 
 
-def sentence_lengths():
-    """Sentences per description and words per sentence. A regex split on .!? is used because many
+def description_sentences():
+    """Words per sentence of every non-empty description. A regex split on .!? is used because many
     descriptions have no space after the period ('look.Designed')."""
     per_description, per_sentence = [], []
     for product in products:
@@ -74,11 +67,24 @@ def sentence_lengths():
         if sentences:
             per_description.append(len(sentences))
             per_sentence += [len(normalize_string(s).split()) for s in sentences]
+    return per_description, per_sentence
 
-    fig, ax = plt.subplots(figsize=(6, 3.5))
-    ax.hist(per_sentence, bins=range(0, 61), color=COLOR)
-    ax.set(title="Words per sentence (descriptions)", xlabel="words (cut at 60)", ylabel="sentences")
-    save_figure(fig, "sentence_length_hist")
+
+def text_length_figure():
+    """One figure with the words per title, words per description and words per sentence."""
+    fig, axes = plt.subplots(1, 3, figsize=(12, 3.2))
+    for ax, field, bins in zip(axes, ["title", "description"], [range(0, 21), range(0, 305, 5)]):
+        counts = [len(raw_tokens(product, field)) for product in products if raw_tokens(product, field)]
+        ax.hist(counts, bins=bins, color=COLOR)
+        ax.set(title=f"Words per {field}", xlabel=f"words (cut at {bins[-1]})", ylabel="products")
+    axes[2].hist(description_sentences()[1], bins=range(0, 61), color=COLOR)
+    axes[2].set(title="Words per sentence (descriptions)", xlabel="words (cut at 60)", ylabel="sentences")
+    save_figure(fig, "text_lengths")
+
+
+def sentence_lengths():
+    """Sentences per description and words per sentence."""
+    per_description, per_sentence = description_sentences()
     return pd.DataFrame([{"measure": "sentences_per_description", **stats(per_description)},
                          {"measure": "words_per_sentence", **stats(per_sentence)}])
 
@@ -275,13 +281,16 @@ def sub_categories():
 
 def word_clouds():
     """Word clouds of the title and description words, without stop words and not stemmed (stems such as
-    'typographi' are hard to read)."""
-    for field in ["title", "description"]:
+    'typographi' are hard to read). Titles and descriptions side by side in one figure."""
+    fig, axes = plt.subplots(1, 2, figsize=(12, 3.4))
+    for ax, field in zip(axes, ["title", "description"]):
         words = Counter(token for product in products for token in raw_tokens(product, field)
                         if token not in stop_words)
-        cloud = WordCloud(width=1200, height=600, background_color="white", random_state=0)
-        cloud.generate_from_frequencies(words)
-        cloud.to_file(str(FIGURES_DIR / f"wordcloud_{field}.png"))
+        cloud = WordCloud(width=1000, height=550, background_color="white", random_state=0)
+        ax.imshow(cloud.generate_from_frequencies(words), interpolation="bilinear")
+        ax.set_title(f"{field.capitalize()}s")
+        ax.axis("off")
+    save_figure(fig, "wordclouds")
 
 
 def entities():
@@ -336,6 +345,7 @@ top_sellers, top_brands = top_sellers_brands()
 entities_by_label, top_entities = entities()
 brand_cases, truncated_brands = brand_truncation()
 word_clouds()
+text_length_figure()
 tables = {
     "word_counts": word_counts(),
     "sentence_lengths": sentence_lengths(),
