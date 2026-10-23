@@ -10,16 +10,12 @@ The statement of the assignment is `Part1/IRWA_project_part_1 (2).pdf`.
 
 ## Status
 
-**Part 1, first half (data preparation, items 1 to 4 of the statement): finished.** Code, results and report
-sections 1 to 3 are done.
+**Part 1: finished.** Data preparation (items 1 to 4, report sections 1 to 3) and exploratory data analysis
+(`EDA.py`, report section 4) are done. `Part1/Report_Part1.pdf` is built from `Report_Part1.md` and is the only
+thing handed in; it links to this repo.
 
-Pending:
-- **Part 1, second half (exploratory data analysis):** word count distribution, average sentence length,
-  vocabulary size, products ranked by rating, price and discount, top sellers and brands, `out_of_stock`
-  distribution, word clouds of the most frequent words, entity recognition. No code yet. Section 4 of
-  `Part1/Report_Part1.md` is a TODO.
-- **Report:** add the GitHub link (marked TODO in the "Repository" section), finish section 4, and export
-  to PDF. The PDF is the only thing that is handed in; it links to this repo.
+Next (Part 2, indexing and ranking): the proposals of report section 4.7 are not applied yet (recover the full
+brand from the URL, drop the `Style Code` value, demote out-of-stock products, log/rank-scale the price).
 
 ## Layout
 
@@ -30,16 +26,21 @@ Part1/
   DataPreparation.py                   preprocessing (import it, do not duplicate its logic)
   FieldSelection.py                    evaluates which fields to index -> field_selection_results/*.csv
   DataChecks.py                        figures quoted in the report    -> data_checks_results/*.csv
-  Report_Part1.md                      draft of the report (source of the PDF)
+  EDA.py                               exploratory data analysis       -> eda_results/*.csv, eda_results/figures/*.png
+  Report_Part1.md                      the report (source of the PDF)
+  build_report.py                      Report_Part1.md -> Report_Part1.pdf (pandoc + XeLaTeX)
+  Report_Part1.pdf                     the deliverable
 ```
 
 ## How to run
 
 - **Run every script from `Part1/`.** The JSON is opened with a relative path on purpose (the file lives in `Part1/`).
-- Needs `pandas` and `nltk` (the NLTK stop words are downloaded on import). The project `.venv` in the folder
-  above this repo has `nltk` but **no `pandas` and no `pip`**, so install `pandas` there or use another Python.
+- Needs `pandas`, `nltk`, `matplotlib`, `wordcloud`, `spacy` (+ `py -m spacy download en_core_web_sm`) and, for
+  the PDF, `pypandoc_binary` (bundles pandoc) and a XeLaTeX install (MiKTeX). The NLTK stop words are downloaded
+  on import. On the Windows machine everything is installed in `py` (Python 3.14).
 - `python DataPreparation.py` only loads the data and prints a preview. `python FieldSelection.py` takes about
-  a minute (it preprocesses the 28,080 products and evaluates 127 field combinations).
+  a minute (it preprocesses the 28,080 products and evaluates 127 field combinations). `python EDA.py` takes
+  about 2.5 minutes (spaCy over the 16,930 descriptions). `python build_report.py` builds the PDF.
 - `FieldSelection.py` reads `validation_labels.csv` from the folder above `Part1/`.
 
 ## What `DataPreparation.py` does
@@ -75,6 +76,9 @@ Part1/
   They were decided by reasoning.
 - The labeled products look like top results of an earlier retrieval, so they all match the title. This
   understates the value of `title`.
+- Found by the EDA (section 4.4/4.2): `brand` is cut off in 88.1% of the products (`Pu` = puma; the full name is
+  at the start of the URL path), and an empty `seller` means out of stock. 94.5% of the `product_details` terms
+  seen once come from `Style Code`.
 - Not in the report: the preprocessed products are not saved to disk, `DataPreparation.py` prints debug output
   on import (the DataFrame preview and `FIELDS`), and `FieldSelection.py` expects `INDEXED_FIELDS` to keep the
   same order as `FIELDS` (otherwise a `KeyError`).
@@ -82,8 +86,10 @@ Part1/
 ## Workflow
 
 1. Change the preprocessing or the fields in `DataPreparation.py`.
-2. Rerun `python FieldSelection.py` and `python DataChecks.py` from `Part1/`. The CSV files are overwritten.
+2. Rerun `python FieldSelection.py`, `python DataChecks.py` and `python EDA.py` from `Part1/`. The CSV files are
+   overwritten.
 3. Check that the figures in `Part1/Report_Part1.md` still match the CSV files. Every figure cites its file.
+4. Rebuild the PDF with `python build_report.py` and look at the pages.
 
 | Report section | Evidence |
 |---|---|
@@ -91,6 +97,7 @@ Part1/
 | 2.3 field profile | `field_selection_results/field_profile.csv` |
 | 2.4 and 2.5 evaluation | `ablation.csv`, `combinations.csv`, `rankings.csv`, `field_values.csv`, `query_term_matches.csv` |
 | 3.3 numeric fields | `data_checks_results/numeric_fields.csv` |
+| 4 exploratory analysis | `eda_results/*.csv` (each table names its file), figures in `eda_results/figures/` |
 
 Do not edit the CSV files by hand; they are generated.
 

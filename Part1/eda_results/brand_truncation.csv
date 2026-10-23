@@ -1,0 +1,5 @@
+case,products,products_pct
+brand_truncated,24741,88.109
+empty_brand,2009,7.155
+brand_not_in_url,964,3.433
+brand_equals_url_name,366,1.303
