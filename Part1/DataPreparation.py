@@ -19,6 +19,9 @@ print(df.tail(5))
 def preprocess(db_fashion) :
     
 # Removing stop words 
+
 # Tokenization 
+
 # Removing punctuation marks 
+
 # Stemming
