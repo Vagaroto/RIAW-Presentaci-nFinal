@@ -1,0 +1,35 @@
+query,field,value,relevant,total,pct_relevant
+1,brand,Free Authori,5,9,55.556
+1,brand,Pu,2,4,50.0
+1,product_details,Reversible = No,13,17,76.471
+1,product_details,Sleeve = Full Sleeve,13,16,81.25
+1,product_details,Occasion = Casual,10,12,83.333
+1,product_details,Hooded = No,8,10,80.0
+1,product_details,Hooded = Yes,5,6,83.333
+1,product_details,Pattern = Graphic Print,6,6,100.0
+1,product_details,Neck = Crew Neck,5,6,83.333
+1,product_details,Neck = Hooded Neck,4,5,80.0
+1,product_details,Fabric = Polycotton,5,5,100.0
+1,product_details,Country of Origin = India,4,4,100.0
+1,product_details,Generic Name = Sweatshirts,4,4,100.0
+1,product_details,Sales Package = 1 Sweatshirt,3,4,75.0
+1,product_details,"Fabric Care = Hand Wash, Reverse and Dry",4,4,100.0
+1,product_details,Pattern = Solid,3,4,75.0
+1,product_details,Fabric Care = Hand wash,0,4,0.0
+1,product_details,Ideal For = Women,0,4,0.0
+1,product_details,Fit = Regular,0,4,0.0
+1,product_details,Pack of = 2,0,4,0.0
+1,product_details,Sleeve = Half Sleeve,0,4,0.0
+1,product_details,Fabric Care = Gentle Machine Wash,4,4,100.0
+1,seller,BioworldMerchandising,4,8,50.0
+1,seller,RetailNet,3,5,60.0
+1,sub_category,Winter Wear,13,16,81.25
+1,sub_category,Topwear,0,4,0.0
+2,brand,ECKO Unl,6,9,66.667
+2,product_details,Ideal For = Women,3,11,27.273
+2,product_details,Fabric = Cotton Blend,7,10,70.0
+2,product_details,Ideal For = Men,7,9,77.778
+2,product_details,Sales Package = Jeans,5,6,83.333
+2,product_details,Closure = Button,1,5,20.0
+2,seller,SandSMarketing,6,9,66.667
+2,sub_category,Bottomwear,10,20,50.0

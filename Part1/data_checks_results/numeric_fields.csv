@@ -1,0 +1,6 @@
+field,missing,missing_pct,min,max,true_count
+selling_price,2,0.007,99.0,7999.0,
+actual_price,777,2.767,150.0,12999.0,
+discount,855,3.045,1.0,87.0,
+average_rating,2261,8.052,1.0,5.0,
+out_of_stock,0,0.0,,,1644.0
