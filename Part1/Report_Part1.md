@@ -1,10 +1,27 @@
 ---
 title: "IRWA Project – Part 1: Text processing and exploratory data analysis"
+author:
+  - Ricardo Ortega
+  - Marcel Manzano
+  - Eduardo Tobia
 ---
+
+\newpage
+
+## Introduction
+
+The project builds a search engine over 28,080 fashion products from Flipkart. Its quality is measured with relevance labels for two reference queries: `women full sleeve sweatshirt cotton` and `men slim jeans blue`. Part 1 prepares the data for indexing and explores it:
+
+- **Section 1** turns each product's text into the terms the index will match.
+- **Section 2** chooses which descriptive fields to index, with evidence from the labels.
+- **Section 3** prepares the numeric fields for the ranking stage.
+- **Section 4** analyses the corpus and ends with proposals for the next parts.
 
 **Repository:** <https://github.com/Vagaroto/RIAW-Presentaci-nFinal>. The code is in `Part1/`, and the `README.md` explains how to run it and which file holds each number. Every table of this report names its source CSV file.
 
 ## 1. Data preparation
+
+A query and a product only match if they share terms, so both must be reduced to the same form. This section describes that processing, and what is stored for each product.
 
 ### 1.1 Text processing
 
@@ -41,9 +58,11 @@ Every indexed text field goes through `preprocess_text` (`DataPreparation.py`):
 
 ## 2. Handling of `category`, `sub_category`, `brand`, `product_details` and `seller`
 
-### 2.1 Decision and approaches considered
+Besides the title and description, each product has categorical and structured fields. Indexing a field can add the terms users search for, but also noise. This section decides which fields to index, and backs the choice with the validation labels.
 
-**Decision:**
+### 2.1 Chosen approach and alternatives
+
+We decided:
 
 - `title`, `description`, `sub_category`, `brand` and `product_details` are **merged into one indexed text field, without field weights**.
 - `category` and `seller` are **not indexed**, but they're still returned with the results.
@@ -88,7 +107,7 @@ Source: `ablation.csv`, `combinations.csv` (all combinations) and `rankings.csv`
 - **The full set scores 0.862, and so does the chosen set.** The best combination is `product_details` alone, at 0.868. A difference that small is noise with 40 labels.
 - **The `t-shirt` step didn't change any score.** Neither query contains `shirt`, so these labels can't show its effect.
 
-### 2.4 Decision for each field
+### 2.4 Choice for each field
 
 - **`title`, included:**
   - Removing it hurts the most (−0.076).
@@ -120,7 +139,9 @@ Source: `ablation.csv`, `combinations.csv` (all combinations) and `rankings.csv`
 
 ## 3. Numeric fields (`out_of_stock`, `selling_price`, `discount`, `actual_price`, `average_rating`)
 
-**Decision:** these fields are **not indexed as text terms**. They're converted into clean values in the `numeric` object, for the ranking stage. The original strings stay in `original` and are the ones returned.
+Price, discount, rating and stock are numbers, not words, so they need a different treatment from the text. This section explains how we store them.
+
+We **don't index these fields as text terms**. Instead, they're converted into clean values in the `numeric` object, for the ranking stage. The original strings stay in `original` and are the ones returned.
 
 | Field | Original | Stored | Missing | Range |
 |---|---|---|---|---|
@@ -143,7 +164,9 @@ Source: `data_checks_results/numeric_fields.csv`.
 
 ## 4. Exploratory data analysis
 
-**Decisions taken for the analysis:**
+The analysis describes the corpus (text lengths, vocabulary, numeric values, brands, sellers, stock and entities) to find the problems and signals that matter for indexing and ranking.
+
+For the whole analysis, we chose:
 
 - **Scope:** all 28,080 products, with no sampling.
 - **Two token views:**
@@ -269,7 +292,7 @@ Source: `truncated_brands.csv`, `brand_truncation.csv`.
 
 ### 4.5 Word clouds
 
-**Decision:** the word clouds use raw tokens without stop words and **not stemmed**, because stems such as `typographi` are hard to read.
+We built the word clouds from raw tokens without stop words and **not stemmed**, because stems such as `typographi` are hard to read.
 
 ![Most frequent words in titles (left) and descriptions (right)](eda_results/figures/wordclouds.png){width=80%}
 
@@ -282,7 +305,7 @@ Source: `truncated_brands.csv`, `brand_truncation.csv`.
 
 ### 4.6 Entity recognition
 
-**Decision:** spaCy `en_core_web_sm` over all 16,930 non-empty descriptions (about 1.5 minutes). Titles and `product_details` aren't sentences, so they weren't analysed.
+We ran spaCy `en_core_web_sm` over all 16,930 non-empty descriptions (about 1.5 minutes). Titles and `product_details` aren't sentences, so they weren't analysed.
 
 | Label | Descriptions with it | Most frequent examples |
 |---|---|---|
