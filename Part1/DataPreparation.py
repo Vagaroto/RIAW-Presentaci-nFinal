@@ -89,3 +89,10 @@ def preprocess(db_fashion):
             "numeric": numeric_values(product),
         })
     return docs
+
+
+if __name__ == "__main__":
+    # Reference for the shape of preprocess() output
+    with open("preprocess_examples.json", "w", encoding="utf-8") as f:
+        json.dump(preprocess(db_fashion[:5]), f, indent=2, ensure_ascii=False)
+

@@ -1,0 +1,775 @@
+[
+  {
+    "pid": "TKPFCZ9EA7H5FYZH",
+    "original": {
+      "_id": "fa8e22d6-c0b6-5229-bb9e-ad52eda39a0a",
+      "actual_price": "2,999",
+      "average_rating": "3.9",
+      "brand": "York",
+      "category": "Clothing and Accessories",
+      "crawled_at": 1612987911000,
+      "description": "Yorker trackpants made from 100% rich combed cotton giving it a rich look.Designed for Comfort,Skin friendly fabric,itch-free waistband & great for all year round use Proudly made in India",
+      "discount": "69% off",
+      "images": [
+        "https://rukminim1.flixcart.com/image/128/128/jr3t5e80/track-pant/z/y/n/m-1005combo2-yorker-original-imafczg3xfh5qqd4.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/128/128/jr58l8w0/track-pant/w/d/a/l-1005combo8-yorker-original-imafczg3pgtxgraq.jpeg?q=70"
+      ],
+      "out_of_stock": false,
+      "pid": "TKPFCZ9EA7H5FYZH",
+      "product_details": [
+        {
+          "Style Code": "1005COMBO2"
+        },
+        {
+          "Closure": "Elastic"
+        },
+        {
+          "Pockets": "Side Pockets"
+        },
+        {
+          "Fabric": "Cotton Blend"
+        },
+        {
+          "Pattern": "Solid"
+        },
+        {
+          "Color": "Multicolor"
+        }
+      ],
+      "seller": "Shyam Enterprises",
+      "selling_price": "921",
+      "sub_category": "Bottomwear",
+      "title": "Solid Women Multicolor Track Pants",
+      "url": "https://www.flipkart.com/yorker-solid-men-multicolor-track-pants/p/itmd2c76aadce459?pid=TKPFCZ9EA7H5FYZH&lid=LSTTKPFCZ9EA7H5FYZHVYXWP0&marketplace=FLIPKART&srno=b_1_1&otracker=browse&fm=organic&iid=177a46eb-d053-4732-b3de-fcad6ff59cbd.TKPFCZ9EA7H5FYZH.SEARCH&ssid=utkd4t3gb40000001612415717799"
+    },
+    "processed": {
+      "title": [
+        "solid",
+        "women",
+        "multicolor",
+        "track",
+        "pant"
+      ],
+      "description": [
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india"
+      ],
+      "category": [
+        "cloth",
+        "accessori"
+      ],
+      "sub_category": [
+        "bottomwear"
+      ],
+      "brand": [
+        "york"
+      ],
+      "product_details": [
+        "1005combo2",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "multicolor"
+      ],
+      "seller": [
+        "shyam",
+        "enterpris"
+      ],
+      "text": [
+        "solid",
+        "women",
+        "multicolor",
+        "track",
+        "pant",
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india",
+        "bottomwear",
+        "york",
+        "1005combo2",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "multicolor"
+      ]
+    },
+    "numeric": {
+      "selling_price": 921.0,
+      "actual_price": 2999.0,
+      "discount": 69.0,
+      "average_rating": 3.9,
+      "out_of_stock": false
+    }
+  },
+  {
+    "pid": "TKPFCZ9EJZV2UVRZ",
+    "original": {
+      "_id": "893e6980-f2a0-531f-b056-34dd63fe912c",
+      "actual_price": "1,499",
+      "average_rating": "3.9",
+      "brand": "York",
+      "category": "Clothing and Accessories",
+      "crawled_at": 1612987912000,
+      "description": "Yorker trackpants made from 100% rich combed cotton giving it a rich look.Designed for Comfort,Skin friendly fabric,itch-free waistband & great for all year round use Proudly made in India",
+      "discount": "66% off",
+      "images": [
+        "https://rukminim1.flixcart.com/image/128/128/kfyasnk0/track-pant/g/5/y/s-19876-yorker-original-imafwamyzrwjynkf.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/128/128/kfyasnk0/track-pant/g/5/y/s-19876-yorker-original-imafwamynyeuu5zq.jpeg?q=70"
+      ],
+      "out_of_stock": false,
+      "pid": "TKPFCZ9EJZV2UVRZ",
+      "product_details": [
+        {
+          "Style Code": "1005BLUE"
+        },
+        {
+          "Closure": "Drawstring, Elastic"
+        },
+        {
+          "Pockets": "Side Pockets"
+        },
+        {
+          "Fabric": "Cotton Blend"
+        },
+        {
+          "Pattern": "Solid"
+        },
+        {
+          "Color": "Blue"
+        }
+      ],
+      "seller": "Shyam Enterprises",
+      "selling_price": "499",
+      "sub_category": "Bottomwear",
+      "title": "Solid Men Blue Track Pants",
+      "url": "https://www.flipkart.com/yorker-solid-men-blue-track-pants/p/itmfczez7v6rzwer?pid=TKPFCZ9EJZV2UVRZ&lid=LSTTKPFCZ9EJZV2UVRZ9HEITU&marketplace=FLIPKART&srno=b_1_2&otracker=browse&fm=organic&iid=177a46eb-d053-4732-b3de-fcad6ff59cbd.TKPFCZ9EJZV2UVRZ.SEARCH&ssid=utkd4t3gb40000001612415717799"
+    },
+    "processed": {
+      "title": [
+        "solid",
+        "men",
+        "blue",
+        "track",
+        "pant"
+      ],
+      "description": [
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india"
+      ],
+      "category": [
+        "cloth",
+        "accessori"
+      ],
+      "sub_category": [
+        "bottomwear"
+      ],
+      "brand": [
+        "york"
+      ],
+      "product_details": [
+        "1005blue",
+        "drawstr",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "blue"
+      ],
+      "seller": [
+        "shyam",
+        "enterpris"
+      ],
+      "text": [
+        "solid",
+        "men",
+        "blue",
+        "track",
+        "pant",
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india",
+        "bottomwear",
+        "york",
+        "1005blue",
+        "drawstr",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "blue"
+      ]
+    },
+    "numeric": {
+      "selling_price": 499.0,
+      "actual_price": 1499.0,
+      "discount": 66.0,
+      "average_rating": 3.9,
+      "out_of_stock": false
+    }
+  },
+  {
+    "pid": "TKPFCZ9EHFCY5Z4Y",
+    "original": {
+      "_id": "eb4c8eab-8206-59d0-bcd1-a724d96bf74f",
+      "actual_price": "2,999",
+      "average_rating": "3.9",
+      "brand": "York",
+      "category": "Clothing and Accessories",
+      "crawled_at": 1612987912000,
+      "description": "Yorker trackpants made from 100% rich combed cotton giving it a rich look.Designed for Comfort,Skin friendly fabric,itch-free waistband & great for all year round use Proudly made in India",
+      "discount": "68% off",
+      "images": [
+        "https://rukminim1.flixcart.com/image/128/128/jr3t5e80/track-pant/e/c/s/xl-1005combo4-yorker-original-imafczgcc8t8uppk.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/128/128/jr58l8w0/track-pant/f/s/v/m-1005combo9-yorker-original-imafczez7buydy6r.jpeg?q=70"
+      ],
+      "out_of_stock": false,
+      "pid": "TKPFCZ9EHFCY5Z4Y",
+      "product_details": [
+        {
+          "Style Code": "1005COMBO4"
+        },
+        {
+          "Closure": "Elastic"
+        },
+        {
+          "Pockets": "Side Pockets"
+        },
+        {
+          "Fabric": "Cotton Blend"
+        },
+        {
+          "Pattern": "Solid"
+        },
+        {
+          "Color": "Multicolor"
+        }
+      ],
+      "seller": "Shyam Enterprises",
+      "selling_price": "931",
+      "sub_category": "Bottomwear",
+      "title": "Solid Men Multicolor Track Pants",
+      "url": "https://www.flipkart.com/yorker-solid-men-multicolor-track-pants/p/itm1eee3ca648155?pid=TKPFCZ9EHFCY5Z4Y&lid=LSTTKPFCZ9EHFCY5Z4YDOVNQS&marketplace=FLIPKART&srno=b_1_3&otracker=browse&fm=organic&iid=177a46eb-d053-4732-b3de-fcad6ff59cbd.TKPFCZ9EHFCY5Z4Y.SEARCH&ssid=utkd4t3gb40000001612415717799"
+    },
+    "processed": {
+      "title": [
+        "solid",
+        "men",
+        "multicolor",
+        "track",
+        "pant"
+      ],
+      "description": [
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india"
+      ],
+      "category": [
+        "cloth",
+        "accessori"
+      ],
+      "sub_category": [
+        "bottomwear"
+      ],
+      "brand": [
+        "york"
+      ],
+      "product_details": [
+        "1005combo4",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "multicolor"
+      ],
+      "seller": [
+        "shyam",
+        "enterpris"
+      ],
+      "text": [
+        "solid",
+        "men",
+        "multicolor",
+        "track",
+        "pant",
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india",
+        "bottomwear",
+        "york",
+        "1005combo4",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "multicolor"
+      ]
+    },
+    "numeric": {
+      "selling_price": 931.0,
+      "actual_price": 2999.0,
+      "discount": 68.0,
+      "average_rating": 3.9,
+      "out_of_stock": false
+    }
+  },
+  {
+    "pid": "TKPFCZ9ESZZ7YWEF",
+    "original": {
+      "_id": "3f3f97bb-5faf-57df-a9ff-1af24e2b1045",
+      "actual_price": "2,999",
+      "average_rating": "3.9",
+      "brand": "York",
+      "category": "Clothing and Accessories",
+      "crawled_at": 1612987913000,
+      "description": "Yorker trackpants made from 100% rich combed cotton giving it a rich look.Designed for Comfort,Skin friendly fabric,itch-free waistband & great for all year round use Proudly made in India",
+      "discount": "69% off",
+      "images": [
+        "https://rukminim1.flixcart.com/image/128/128/jr3t5e80/track-pant/w/e/f/xl-1005combo3-yorker-original-imafczezgq8ntn7c.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/128/128/jr3t5e80/track-pant/8/n/h/xxl-1005dskin-yorker-original-imafczezeauspu2a.jpeg?q=70"
+      ],
+      "out_of_stock": false,
+      "pid": "TKPFCZ9ESZZ7YWEF",
+      "product_details": [
+        {
+          "Style Code": "1005COMBO3"
+        },
+        {
+          "Closure": "Elastic"
+        },
+        {
+          "Pockets": "Side Pockets"
+        },
+        {
+          "Fabric": "Cotton Blend"
+        },
+        {
+          "Pattern": "Solid"
+        },
+        {
+          "Color": "Multicolor"
+        }
+      ],
+      "seller": "Shyam Enterprises",
+      "selling_price": "911",
+      "sub_category": "Bottomwear",
+      "title": "Solid Women Multicolor Track Pants",
+      "url": "https://www.flipkart.com/yorker-solid-men-multicolor-track-pants/p/itma2f9bfe7dafb7?pid=TKPFCZ9ESZZ7YWEF&lid=LSTTKPFCZ9ESZZ7YWEFAZ1PUK&marketplace=FLIPKART&srno=b_1_4&otracker=browse&fm=organic&iid=177a46eb-d053-4732-b3de-fcad6ff59cbd.TKPFCZ9ESZZ7YWEF.SEARCH&ssid=utkd4t3gb40000001612415717799"
+    },
+    "processed": {
+      "title": [
+        "solid",
+        "women",
+        "multicolor",
+        "track",
+        "pant"
+      ],
+      "description": [
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india"
+      ],
+      "category": [
+        "cloth",
+        "accessori"
+      ],
+      "sub_category": [
+        "bottomwear"
+      ],
+      "brand": [
+        "york"
+      ],
+      "product_details": [
+        "1005combo3",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "multicolor"
+      ],
+      "seller": [
+        "shyam",
+        "enterpris"
+      ],
+      "text": [
+        "solid",
+        "women",
+        "multicolor",
+        "track",
+        "pant",
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india",
+        "bottomwear",
+        "york",
+        "1005combo3",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "multicolor"
+      ]
+    },
+    "numeric": {
+      "selling_price": 911.0,
+      "actual_price": 2999.0,
+      "discount": 69.0,
+      "average_rating": 3.9,
+      "out_of_stock": false
+    }
+  },
+  {
+    "pid": "TKPFCZ9EVXKBSUD7",
+    "original": {
+      "_id": "750caa3d-6264-53ca-8ce1-94118a1d8951",
+      "actual_price": "2,999",
+      "average_rating": "3.9",
+      "brand": "York",
+      "category": "Clothing and Accessories",
+      "crawled_at": 1612987913000,
+      "description": "Yorker trackpants made from 100% rich combed cotton giving it a rich look.Designed for Comfort,Skin friendly fabric,itch-free waistband & great for all year round use Proudly made in India",
+      "discount": "68% off",
+      "images": [
+        "https://rukminim1.flixcart.com/image/128/128/jr3t5e80/track-pant/d/w/b/l-1005combo1-yorker-original-imafczg3zcuajpgb.jpeg?q=70",
+        "https://rukminim1.flixcart.com/image/128/128/jr58l8w0/track-pant/d/w/b/l-1005combo1-yorker-original-imafczg3yyz6zgab.jpeg?q=70"
+      ],
+      "out_of_stock": false,
+      "pid": "TKPFCZ9EVXKBSUD7",
+      "product_details": [
+        {
+          "Style Code": "1005COMBO1"
+        },
+        {
+          "Closure": "Drawstring, Elastic"
+        },
+        {
+          "Pockets": "Side Pockets"
+        },
+        {
+          "Fabric": "Cotton Blend"
+        },
+        {
+          "Pattern": "Solid"
+        },
+        {
+          "Color": "Brown, Grey"
+        }
+      ],
+      "seller": "Shyam Enterprises",
+      "selling_price": "943",
+      "sub_category": "Bottomwear",
+      "title": "Solid Women Brown, Grey Track Pants",
+      "url": "https://www.flipkart.com/yorker-solid-men-brown-grey-track-pants/p/itm1a8387617b373?pid=TKPFCZ9EVXKBSUD7&lid=LSTTKPFCZ9EVXKBSUD7O1SCSG&marketplace=FLIPKART&srno=b_1_5&otracker=browse&fm=organic&iid=177a46eb-d053-4732-b3de-fcad6ff59cbd.TKPFCZ9EVXKBSUD7.SEARCH&ssid=utkd4t3gb40000001612415717799"
+    },
+    "processed": {
+      "title": [
+        "solid",
+        "women",
+        "brown",
+        "grey",
+        "track",
+        "pant"
+      ],
+      "description": [
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india"
+      ],
+      "category": [
+        "cloth",
+        "accessori"
+      ],
+      "sub_category": [
+        "bottomwear"
+      ],
+      "brand": [
+        "york"
+      ],
+      "product_details": [
+        "1005combo1",
+        "drawstr",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "brown",
+        "grey"
+      ],
+      "seller": [
+        "shyam",
+        "enterpris"
+      ],
+      "text": [
+        "solid",
+        "women",
+        "brown",
+        "grey",
+        "track",
+        "pant",
+        "yorker",
+        "trackpant",
+        "made",
+        "100",
+        "rich",
+        "comb",
+        "cotton",
+        "give",
+        "rich",
+        "look",
+        "design",
+        "comfort",
+        "skin",
+        "friend",
+        "fabric",
+        "itch",
+        "free",
+        "waistband",
+        "great",
+        "year",
+        "round",
+        "use",
+        "proud",
+        "made",
+        "india",
+        "bottomwear",
+        "york",
+        "1005combo1",
+        "drawstr",
+        "elast",
+        "side",
+        "pocket",
+        "cotton",
+        "blend",
+        "solid",
+        "brown",
+        "grey"
+      ]
+    },
+    "numeric": {
+      "selling_price": 943.0,
+      "actual_price": 2999.0,
+      "discount": 68.0,
+      "average_rating": 3.9,
+      "out_of_stock": false
+    }
+  }
+]

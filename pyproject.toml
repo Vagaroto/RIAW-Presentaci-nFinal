@@ -1,0 +1,20 @@
+[project]
+name = "riaw-presentaci-nfinal"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "docrieux", email = "docrieux@protonmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "nltk>=3.10.4",
+    "pandas>=3.1.0",
+]
+
+[project.scripts]
+riaw-presentaci-nfinal = "riaw_presentaci_nfinal:main"
+
+[build-system]
+requires = ["uv_build>=0.12.7,<0.13.0"]
+build-backend = "uv_build"
