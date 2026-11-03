@@ -6,9 +6,9 @@ import nltk
 import pandas as pd
 from nltk.corpus import stopwords
 from nltk.stem import SnowballStemmer
+from pathlib import Path
 
-
-with open('fashion_products_dataset.json') as f:
+with open(Path(__file__).parent / 'fashion_products_dataset.json') as f:
     db_fashion = json.load(f)
 
 df = pd.json_normalize(db_fashion)  # o pd.DataFrame(db_fashion)

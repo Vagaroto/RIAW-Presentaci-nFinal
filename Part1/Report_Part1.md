@@ -4,7 +4,7 @@
 
 ## Repository
 
-Code and results: **TODO: GitHub link** (folder `RIAW-Presentaci-nFinal/Part1/`). The scripts are run from the `Part1/` folder. The figures in this report can be checked in these files:
+Code and results: https://github.com/Vagaroto/RIAW-Presentaci-nFinal (folder `RIAW-Presentaci-nFinal/Part1/`). The scripts are run from the `Part1/` folder. The figures in this report can be checked in these files:
 
 | File or folder | Content |
 |---|---|
