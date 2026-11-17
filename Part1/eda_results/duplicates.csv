@@ -1,0 +1,6 @@
+measure,value
+products,28080
+distinct_titles,5953
+products_with_repeated_title,24462
+non_empty_descriptions,16930
+distinct_descriptions,5683

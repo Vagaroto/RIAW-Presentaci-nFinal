@@ -1,0 +1,9 @@
+field,empty,kind,n,mean,median,p90,max
+title,0,raw,28080,6.495,6.0,9.0,36.0
+title,0,processed,28080,6.272,6.0,8.0,31.0
+description,11150,raw,16930,50.155,39.0,107.0,637.0
+description,11150,processed,16930,31.246,25.0,67.0,579.0
+product_details,0,raw,28080,27.316,25.0,44.0,206.0
+product_details,0,processed,28080,24.338,23.0,38.0,152.0
+text,0,raw,28080,66.949,46.0,124.0,682.0
+text,0,processed,28080,52.123,41.0,91.0,623.0
