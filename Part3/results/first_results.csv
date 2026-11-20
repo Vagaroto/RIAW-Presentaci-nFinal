@@ -1,0 +1,36 @@
+ranking,query_id,pid,length,tf,title
+tfidf_sum (Part 2),1,SWSFFVK89VKGHBZN,95,7 3 4 5 2,Full Sleeve Graphic Print Women Sweatshirt
+tfidf_sum (Part 2),2,JEAFDZRVABZZ2PQ3,124,3 5 8 2,Stretchable Slim Men Blue Jeans  (Pack of 2)
+tfidf_sum (Part 2),3,TSHFUXPWUR2ZTEE2,623,22 8 60,Color Block Men V Neck Dark Blue T-Shirt
+tfidf_sum (Part 2),4,TSHFXBTHRSAFFFZP,323,8 7 9 6 9 1 27,Printed Men Round Neck Grey T-Shirt
+tfidf_sum (Part 2),5,TSHFZ3JCKDYHBD7Z,62,3 3 1,Solid Men Polo Neck Grey T-Shirt
+tfidf_sum (Part 2),6,RNCFG4PHHGHSA3YH,76,3 7,Solid Men Raincoat
+tfidf_sum (Part 2),7,SHTFS2GZVGWEWBEN,42,2 3 3,Women Regular Fit Printed Slim Collar Casual Shirt
+tf_idf_cosine,1,SWSFMTNHEM5SNHVZ,48,1 2 2 7 1,Full Sleeve Solid Women Sweatshirt
+tf_idf_cosine,2,JEAFRAQXEKGUPNUN,30,2 1 4 2,Slim Men Blue Jeans
+tf_idf_cosine,3,TSHFX3HD76TRJT3T,28,2 3 2,Solid Men Polo Neck Grey T-Shirt
+tf_idf_cosine,4,TSHFUSKPWUZSP6F6,35,3 4 4 1 1 1 3,Printed Men Round Neck Black T-Shirt
+tf_idf_cosine,5,TSHFZ3JEMYXNVUBW,35,2 2 1,Printed Men Round Neck Green T-Shirt
+tf_idf_cosine,6,RNCFWHY4GZDVCKWT,29,2 4,Solid Men Raincoat
+tf_idf_cosine,7,SHTFS2GZVGWEWBEN,42,2 3 3,Women Regular Fit Printed Slim Collar Casual Shirt
+bm25,1,SWSFFVKBAZGKCQCX,77,5 3 4 5 2,Full Sleeve Graphic Print Women Sweatshirt
+bm25,2,JEAFDWC8NGRWDHRS,124,3 5 7 3,Slim Men Blue Jeans
+bm25,3,TSHFWVYDD2G5USN6,72,4 6 7,Solid Men Polo Neck Maroon T-Shirt
+bm25,4,TSHFX28XCNUFF3VX,58,3 4 4 4 4 3 5,Solid Men Round Neck Beige T-Shirt
+bm25,5,TSHFZ3JCKDYHBD7Z,62,3 3 1,Solid Men Polo Neck Grey T-Shirt
+bm25,6,RNCFG4PHHGHSA3YH,76,3 7,Solid Men Raincoat
+bm25,7,SHTFS2GZVGWEWBEN,42,2 3 3,Women Regular Fit Printed Slim Collar Casual Shirt
+tikitikiscore,1,SWSFMTNHEM5SNHVZ,48,1 2 2 7 1,Full Sleeve Solid Women Sweatshirt
+tikitikiscore,2,JEAFSKYHHDQ2SDZQ,41,2 1 4 3,Tapered Fit Men Light Blue Jeans
+tikitikiscore,3,TSHFZQBG3J5GREG2,36,2 4 2,Printed Men Polo Neck Black T-Shirt
+tikitikiscore,4,TSHFUSKPWUZSP6F6,35,3 4 4 1 1 1 3,Printed Men Round Neck Black T-Shirt
+tikitikiscore,5,TSHFZ3JEMYXNVUBW,35,2 2 1,Printed Men Round Neck Green T-Shirt
+tikitikiscore,6,RNCFYMZ6AKKHRJC4,83,2 6,Solid Men Raincoat
+tikitikiscore,7,SHTFS2GZVGWEWBEN,42,2 3 3,Women Regular Fit Printed Slim Collar Casual Shirt
+word2vec_cosine,1,SWSFMJF98EY2FXBH,42,2 3 3 3 1,Full Sleeve Solid Women Sweatshirt
+word2vec_cosine,2,JEAFSKYH539HTZB8,38,2 1 4 3,Tapered Fit Men Blue Jeans
+word2vec_cosine,3,TSHFPDP66HXSHGQ9,63,3 4 4,Typography Men Round Neck Dark Blue T-Shirt
+word2vec_cosine,4,TSHFGZHAHVNPANGY,48,3 3 3 2 3 2 5,Printed Men Round Neck Black T-Shirt
+word2vec_cosine,5,TSHFZ3JDHZSGCFHT,55,1 3 1,Solid Men Round Neck Grey T-Shirt
+word2vec_cosine,6,RNCF4YV4GZRYJY3A,87,11 4,Solid Men Raincoat
+word2vec_cosine,7,SHTFSH5VRDYPSGGK,61,3 1 4,Women Regular Fit Checkered Casual Shirt

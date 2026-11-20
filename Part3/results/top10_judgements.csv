@@ -1,0 +1,36 @@
+ranking,query_id,relevant,not_relevant,unjudged
+tfidf_sum (Part 2),1,2,0,8
+tfidf_sum (Part 2),2,0,0,10
+tfidf_sum (Part 2),3,9,1,0
+tfidf_sum (Part 2),4,0,10,0
+tfidf_sum (Part 2),5,10,0,0
+tfidf_sum (Part 2),6,10,0,0
+tfidf_sum (Part 2),7,7,3,0
+tf_idf_cosine,1,0,0,10
+tf_idf_cosine,2,2,0,8
+tf_idf_cosine,3,0,0,10
+tf_idf_cosine,4,0,0,10
+tf_idf_cosine,5,9,0,1
+tf_idf_cosine,6,9,0,1
+tf_idf_cosine,7,8,2,0
+bm25,1,1,0,9
+bm25,2,0,0,10
+bm25,3,0,0,10
+bm25,4,0,0,10
+bm25,5,10,0,0
+bm25,6,10,0,0
+bm25,7,7,3,0
+tikitikiscore,1,1,0,9
+tikitikiscore,2,1,0,9
+tikitikiscore,3,0,0,10
+tikitikiscore,4,0,0,10
+tikitikiscore,5,8,0,2
+tikitikiscore,6,9,0,1
+tikitikiscore,7,7,2,1
+word2vec_cosine,1,0,0,10
+word2vec_cosine,2,2,0,8
+word2vec_cosine,3,0,0,10
+word2vec_cosine,4,0,0,10
+word2vec_cosine,5,0,0,10
+word2vec_cosine,6,9,0,1
+word2vec_cosine,7,7,3,0

@@ -1,0 +1,351 @@
+ranking,query_id,query,rank,pid,score,title
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,1,SWSFFVK89VKGHBZN,26.441,Full Sleeve Graphic Print Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,2,SWSFFVK8RYHBBFAH,26.441,Full Sleeve Graphic Print Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,3,SWSFMJGS8HVBPEH6,26.275,Full Sleeve Solid Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,4,SWSFMJGTQFMZGZQH,26.275,Full Sleeve Solid Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,5,SWSFMJGTVFW3NAXZ,26.275,Full Sleeve Solid Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,6,SWSFMJGTGZMJXK5H,26.275,Full Sleeve Solid Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,7,SWSFY4HPTTBCZZAJ,26.251,Full Sleeve Solid Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,8,SWSFFVKBCQG5FHPF,25.731,Full Sleeve Printed Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,9,SWSFFVKBH5YEGFFN,25.731,Full Sleeve Printed Women Sweatshirt
+tfidf_sum (Part 2),1,women full sleeve sweatshirt cotton,10,SWSFFVKBB8FHEB7R,25.731,Full Sleeve Printed Women Sweatshirt
+tfidf_sum (Part 2),2,men slim jeans blue,1,JEAFDZRVABZZ2PQ3,32.296,Stretchable Slim Men Blue Jeans  (Pack of 2)
+tfidf_sum (Part 2),2,men slim jeans blue,2,JEAFDWG9K7KPKHS8,32.296,Slim Men Blue Jeans
+tfidf_sum (Part 2),2,men slim jeans blue,3,JEAFEC2GEMGBWHA5,32.296,Slim Men Light Blue Jeans
+tfidf_sum (Part 2),2,men slim jeans blue,4,JEAFDWC8NGRWDHRS,31.207,Slim Men Blue Jeans
+tfidf_sum (Part 2),2,men slim jeans blue,5,JEAFDHHGY3HBXEMP,30.698,Stretchable Regular Men Blue Jeans
+tfidf_sum (Part 2),2,men slim jeans blue,6,JEAFDWCPDCVQAA3T,29.851,"Slim Men Green, Blue Jeans  (Pack of 2)"
+tfidf_sum (Part 2),2,men slim jeans blue,7,JEAFEC2GUPAPCTUZ,28.495,Slim Men Multicolor Jeans  (Pack of 2)
+tfidf_sum (Part 2),2,men slim jeans blue,8,JEAFRAQGMM8AZA7R,26.244,Slim Men Blue Jeans
+tfidf_sum (Part 2),2,men slim jeans blue,9,JEAFJM2P2FQQJF3C,22.201,Slim Men Dark Blue Jeans
+tfidf_sum (Part 2),2,men slim jeans blue,10,JEAEJYZ8KAGSABDQ,21.767,Slim Men Dark Blue Jeans
+tfidf_sum (Part 2),3,men polo t-shirt,1,TSHFUXPWUR2ZTEE2,79.184,Color Block Men V Neck Dark Blue T-Shirt
+tfidf_sum (Part 2),3,men polo t-shirt,2,TSHFTT2FFZRZVHNZ,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 4)
+tfidf_sum (Part 2),3,men polo t-shirt,3,TSHFSFVZMCCDFFEY,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 3)
+tfidf_sum (Part 2),3,men polo t-shirt,4,TSHFSFVZYTQHBHSH,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 3)
+tfidf_sum (Part 2),3,men polo t-shirt,5,TSHFTT2NYGTJ4F4H,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 4)
+tfidf_sum (Part 2),3,men polo t-shirt,6,TSHFTT38GX7XVRVY,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 4)
+tfidf_sum (Part 2),3,men polo t-shirt,7,TSHFTT3FMWZYJD9D,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 4)
+tfidf_sum (Part 2),3,men polo t-shirt,8,TSHFTT2RNN8DSSHF,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 4)
+tfidf_sum (Part 2),3,men polo t-shirt,9,TSHFTT2YFNPSHCZ7,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 4)
+tfidf_sum (Part 2),3,men polo t-shirt,10,TSHFSFVQWFGETYD5,26.663,Solid Men Polo Neck Multicolor T-Shirt  (Pack of 3)
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,1,TSHFXBTHRSAFFFZP,51.23,Printed Men Round Neck Grey T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,2,TSHFGYGHGZQZ85WU,36.878,Printed Men Round Neck Blue T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,3,TSHFGZWMYXXYWQPY,36.878,Printed Men Round Neck Dark Green T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,4,TSHFGG5TSASGS3EV,34.027,"Printed Men Round Neck Red, Black T-Shirt"
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,5,TSHFX8CRPGAGXA5N,30.859,Graphic Print Men Round Neck Yellow T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,6,TSHFX8CRKRNSGYBU,30.859,Graphic Print Men Round Neck Grey T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,7,TSHFX8CRGXXA2RMP,30.859,Graphic Print Men Round Neck Blue T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,8,TSHFN3V5BH32EZQF,30.45,Graphic Print Men Round Neck Blue T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,9,TSHFN3V5FBWMFE2J,30.45,Graphic Print Men Round Neck White T-Shirt
+tfidf_sum (Part 2),4,men round neck half sleeve cotton t-shirt,10,TSHFN3V59WS2G8U4,30.45,Graphic Print Men Round Neck Grey T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,1,TSHFZ3JCKDYHBD7Z,16.814,Solid Men Polo Neck Grey T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,2,TSHFZ3JCZPSYU8WP,16.814,Solid Men Polo Neck Grey T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,3,TSHFZ3JDATNEUUXN,16.814,Solid Men Polo Neck Black T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,4,TSHFDT66HBJYY4SV,12.922,Solid Men Round Neck Blue T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,5,TSHFDT66GDGHY5GK,12.922,Solid Men Round Neck Black T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,6,TSHFCYP7WGESNMSZ,12.922,Printed Men Round or Crew Black T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,7,TSHFGZXPHWZ3ZYPW,12.147,Printed Men Round Neck Dark Blue T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,8,TSHFCYPACFBXUZWZ,12.147,Applique Men Round or Crew Grey T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,9,TSHFZ3JDA7RHFZBR,11.467,Solid Men Round Neck Purple T-Shirt
+tfidf_sum (Part 2),5,reebok men t-shirt,10,TSHFZ3JD49DDBQZQ,11.467,Sporty Men Round Neck Green T-Shirt
+tfidf_sum (Part 2),6,men raincoat,1,RNCFG4PHHGHSA3YH,49.054,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,2,RNCFYMZ6AKKHRJC4,41.658,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,3,RNCFGGTR5JWV8ES9,41.658,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,4,RNCFWZVGXMGUQDXW,36.3,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,5,RNCFQH2EFDZZBSQD,35.621,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,6,RNCFQH2EWKYGFFFG,35.621,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,7,RNCFQH2EYEMJZVVG,35.621,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,8,RNCFPBZEYAYH2HVZ,35.621,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,9,RNCFXRFSHREUUZCN,34.941,Solid Men Raincoat
+tfidf_sum (Part 2),6,men raincoat,10,RNCF4YV4GZRYJY3A,34.34,Solid Men Raincoat
+tfidf_sum (Part 2),7,white linen shirt,1,SHTFS2GZVGWEWBEN,22.134,Women Regular Fit Printed Slim Collar Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,2,SHTFS2GMNEQEGA9C,17.824,Women Slim Fit Printed Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,3,SHTFS2GMZSRZGM5W,17.824,Men Slim Fit Printed Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,4,SHTFGYHEWBFYCBXD,17.23,Women Regular Fit Checkered Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,5,SHTFG3GFQAJ9YSQK,17.23,Women Regular Fit Checkered Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,6,SHTFSH5VRDYPSGGK,17.23,Women Regular Fit Checkered Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,7,SHTFSH5VCM3ZB7JC,17.048,Women Slim Fit Checkered Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,8,SHTF4NAXYUN8ZT5B,15.28,Women Slim Fit Solid Spread Collar Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,9,SHTFGFADVXS8XSPJ,15.28,Men Regular Fit Self Design Casual Shirt
+tfidf_sum (Part 2),7,white linen shirt,10,SHTFCGQYVMTVNDSQ,11.746,Men Slim Fit Solid Spread Collar Casual Shirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,1,SWSFMTNHEM5SNHVZ,2.434,Full Sleeve Solid Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,2,SWSFV5JNDCDYTNQY,2.075,Full Sleeve Printed Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,3,SWSFYTYMNTBNARUN,2.07,Full Sleeve Solid Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,4,SWSFZVTTQCB4SJ7F,2.038,Full Sleeve Solid Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,5,SWSFZ2H4KMYXZXX7,2.028,Full Sleeve Solid Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,6,SWSFVZRFS7GHGKSF,2.028,Full Sleeve Solid Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,7,SWSFY38ADYPVZHYZ,2.022,Full Sleeve Printed Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,8,SWSFZVTNGM4HG8BC,2.017,Full Sleeve Printed Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,9,SWSFYRKYAHH4HHSM,2.007,Full Sleeve Printed Women Sweatshirt
+tf_idf_cosine,1,women full sleeve sweatshirt cotton,10,SWSFYRH2F7NHW63A,1.996,Full Sleeve Solid Women Sweatshirt
+tf_idf_cosine,2,men slim jeans blue,1,JEAFRAQXEKGUPNUN,1.697,Slim Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,2,JEAFSKYHRVZSABPR,1.64,Slim Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,3,JEAFSKYHTE76YWH7,1.64,Slim Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,4,JEAEVJGUSXRNSHRY,1.604,Slim Men Dark Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,5,JEAFSKYHZHSZZC9S,1.56,Slim Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,6,JEAFUZXSPGQFPYFC,1.558,Super Skinny Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,7,JEAFUZXRSH4HW3YY,1.558,Super Skinny Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,8,JEAFUZXTKUEJXCTB,1.558,Super Skinny Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,9,JEAFUZXSSBU9FVYZ,1.558,Super Skinny Men Blue Jeans
+tf_idf_cosine,2,men slim jeans blue,10,JEAFUZXSQQHZXRYM,1.558,Super Skinny Men Blue Jeans
+tf_idf_cosine,3,men polo t-shirt,1,TSHFX3HD76TRJT3T,1.621,Solid Men Polo Neck Grey T-Shirt
+tf_idf_cosine,3,men polo t-shirt,2,TSHFHJFC9MY2WFRU,1.566,Printed Men Polo Neck Multicolor T-Shirt
+tf_idf_cosine,3,men polo t-shirt,3,TSHFUGZ9ZG5XN2FY,1.563,Solid Men Polo Neck Blue T-Shirt
+tf_idf_cosine,3,men polo t-shirt,4,TSHFSYGTETVWM2TZ,1.538,Self Design Men Polo Neck Grey T-Shirt
+tf_idf_cosine,3,men polo t-shirt,5,TSHFGQGQZPVZHD2S,1.521,Solid Men Polo Neck Black T-Shirt
+tf_idf_cosine,3,men polo t-shirt,6,TSHFY8NYHXZMXDH2,1.494,Striped Men Polo Neck Multicolor T-Shirt
+tf_idf_cosine,3,men polo t-shirt,7,TSHFUGNWKWGPZ32S,1.471,Solid Men Polo Neck Black T-Shirt
+tf_idf_cosine,3,men polo t-shirt,8,TSHFZQBG3J5GREG2,1.468,Printed Men Polo Neck Black T-Shirt
+tf_idf_cosine,3,men polo t-shirt,9,TSHFZQBGBQGXVRHJ,1.418,Printed Men Polo Neck Grey T-Shirt
+tf_idf_cosine,3,men polo t-shirt,10,TSHFUGKTXHZTUGCH,1.418,Striped Men Polo Neck Blue T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,1,TSHFUSKPWUZSP6F6,1.305,Printed Men Round Neck Black T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,2,TSHFX28XGTQFSW9E,1.088,Solid Men Round Neck White T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,3,TSHFZ9JUVMRHG6JH,1.064,Printed Men Round Neck Reversible Black T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,4,TSHFX28XHEBBFQ2E,1.042,Solid Men Round Neck Red T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,5,TSHFWUDVUVV3674W,1.039,Printed Men Round Neck White T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,6,TSHFXYNGKBM82EZR,1.028,Printed Men Round Neck Black T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,7,TSHFX28XEAEHG5EB,1.021,Solid Men Round Neck Light Blue T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,8,TSHFZWNF4YHDDGYE,0.979,Printed Men Round Neck Black T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,9,TSHFZ3GWH9YPA8JV,0.97,Printed Men Round Neck Black T-Shirt
+tf_idf_cosine,4,men round neck half sleeve cotton t-shirt,10,TSHFYZ2YZZRQ3QSK,0.97,Printed Men Round Neck Black T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,1,TSHFZ3JEMYXNVUBW,2.366,Printed Men Round Neck Green T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,2,TSHFZ3JDZETJHQSR,2.157,Self Design Men Round Neck Blue T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,3,TSHFZ3JDATNEUUXN,2.13,Solid Men Polo Neck Black T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,4,TSHFZ3JCKDYHBD7Z,2.09,Solid Men Polo Neck Grey T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,5,TSHFZ3JCZPSYU8WP,2.01,Solid Men Polo Neck Grey T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,6,TSHFZ3JEY889XVFZ,1.995,Self Design Men Round Neck Grey T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,7,TSHFZ3JENVNKEYNZ,1.982,Self Design Men Round Neck Green T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,8,TSHFGZXPNWQHFZF5,1.975,Self Design Men Round Neck Green T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,9,TSHFZ3JE5NXNNYEQ,1.956,Self Design Men Round Neck Black T-Shirt
+tf_idf_cosine,5,reebok men t-shirt,10,TSHFZ3JEH6XVG9RK,1.904,Self Design Men Round Neck Purple T-Shirt
+tf_idf_cosine,6,men raincoat,1,RNCFWHY4GZDVCKWT,5.784,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,2,RNCEGHQUQSGXYTPD,5.468,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,3,RNCFXRFSHREUUZCN,5.392,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,4,RNCEAJYT52EVHB75,5.283,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,5,RNCFYMZ6AKKHRJC4,4.901,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,6,RNCEGXFTJMYHVVYS,4.617,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,7,RNCFGGTR5JWV8ES9,4.585,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,8,RNCFG4PHHGHSA3YH,4.343,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,9,RNCFPBZEYAYH2HVZ,4.307,Solid Men Raincoat
+tf_idf_cosine,6,men raincoat,10,RNCETDF8F7K5HMP3,4.093,Solid Men Raincoat
+tf_idf_cosine,7,white linen shirt,1,SHTFS2GZVGWEWBEN,3.453,Women Regular Fit Printed Slim Collar Casual Shirt
+tf_idf_cosine,7,white linen shirt,2,SHTFS2GMZSRZGM5W,2.925,Men Slim Fit Printed Casual Shirt
+tf_idf_cosine,7,white linen shirt,3,SHTFS2GMNEQEGA9C,2.924,Women Slim Fit Printed Casual Shirt
+tf_idf_cosine,7,white linen shirt,4,SHTFZZFEJJFHS3Z5,2.178,Women Slim Fit Solid Spread Collar Formal Shirt
+tf_idf_cosine,7,white linen shirt,5,SHTFP8H9XZKAFBDF,1.909,Women Regular Fit Checkered Formal Shirt
+tf_idf_cosine,7,white linen shirt,6,SHTFM3FTBU5HWFY9,1.849,Women Slim Fit Self Design Casual Shirt
+tf_idf_cosine,7,white linen shirt,7,SHTFWAP7GH6TUU7F,1.797,Men Regular Fit Printed Button Down Collar Casual Shirt
+tf_idf_cosine,7,white linen shirt,8,SHTFEKRXZHHHMSCS,1.72,Men Slim Fit Self Design Mandarin Collar Casual Shirt
+tf_idf_cosine,7,white linen shirt,9,SHTFW9RHGPJ9QWD6,1.708,Women Regular Fit Printed Spread Collar Formal Shirt
+tf_idf_cosine,7,white linen shirt,10,SHTFZ9XBC8RMRZHA,1.702,Women Slim Fit Polka Print Casual Shirt
+bm25,1,women full sleeve sweatshirt cotton,1,SWSFFVKBAZGKCQCX,10.126,Full Sleeve Graphic Print Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,2,SWSFFVK8RYHBBFAH,10.028,Full Sleeve Graphic Print Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,3,SWSFFVKBH5YEGFFN,10.019,Full Sleeve Printed Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,4,SWSFFVKBQUWH72KH,10.019,Full Sleeve Printed Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,5,SWSFFVKBF5U5AHBR,10.019,Full Sleeve Printed Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,6,SWSFFVK89VKGHBZN,10.017,Full Sleeve Graphic Print Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,7,SWSFFVKBB8FHEB7R,10.007,Full Sleeve Printed Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,8,SWSFFVKBCY7RSGYJ,10.007,Full Sleeve Printed Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,9,SWSFFVKBYG9ZUBTW,10.007,Full Sleeve Printed Women Sweatshirt
+bm25,1,women full sleeve sweatshirt cotton,10,SWSFFVKBCQG5FHPF,9.996,Full Sleeve Printed Women Sweatshirt
+bm25,2,men slim jeans blue,1,JEAFDWC8NGRWDHRS,10.411,Slim Men Blue Jeans
+bm25,2,men slim jeans blue,2,JEAFRAQGMM8AZA7R,10.242,Slim Men Blue Jeans
+bm25,2,men slim jeans blue,3,JEAFDZRVABZZ2PQ3,10.214,Stretchable Slim Men Blue Jeans  (Pack of 2)
+bm25,2,men slim jeans blue,4,JEAFDWG9K7KPKHS8,10.214,Slim Men Blue Jeans
+bm25,2,men slim jeans blue,5,JEAFEC2GEMGBWHA5,10.214,Slim Men Light Blue Jeans
+bm25,2,men slim jeans blue,6,JEAF2QF6HNZHDXVX,10.207,Slim Men Dark Blue Jeans
+bm25,2,men slim jeans blue,7,JEAFJM2P2FQQJF3C,10.155,Slim Men Dark Blue Jeans
+bm25,2,men slim jeans blue,8,JEAFDWCPDCVQAA3T,10.088,"Slim Men Green, Blue Jeans  (Pack of 2)"
+bm25,2,men slim jeans blue,9,JEAEVJGUSXRNSHRY,10.086,Slim Men Dark Blue Jeans
+bm25,2,men slim jeans blue,10,JEAFDHHGY3HBXEMP,10.035,Stretchable Regular Men Blue Jeans
+bm25,3,men polo t-shirt,1,TSHFWVYDD2G5USN6,6.944,Solid Men Polo Neck Maroon T-Shirt
+bm25,3,men polo t-shirt,2,TSHF98JNPUBAZYKY,6.858,Striped Men Polo Neck Red T-Shirt
+bm25,3,men polo t-shirt,3,TSHFWCPH58HTE4FT,6.785,Solid Men Polo Neck White T-Shirt
+bm25,3,men polo t-shirt,4,TSHFWCPH3K9Q9PGX,6.785,Solid Men Polo Neck Purple T-Shirt
+bm25,3,men polo t-shirt,5,TSHFWCPH77RAYAFF,6.785,Solid Men Polo Neck White T-Shirt
+bm25,3,men polo t-shirt,6,TSHFWCPHW85DNJFF,6.785,Solid Men Polo Neck Red T-Shirt
+bm25,3,men polo t-shirt,7,TSHFWCPHJXZHYPNP,6.785,Solid Men Polo Neck Beige T-Shirt
+bm25,3,men polo t-shirt,8,TSHFWCPHG3ZSARY3,6.779,Solid Men Polo Neck Green T-Shirt
+bm25,3,men polo t-shirt,9,TSHFWCPHK7J5H2UU,6.779,Solid Men Polo Neck Green T-Shirt
+bm25,3,men polo t-shirt,10,TSHFWCPHVBZRCCYQ,6.779,Solid Men Polo Neck Blue T-Shirt
+bm25,4,men round neck half sleeve cotton t-shirt,1,TSHFX28XCNUFF3VX,9.032,Solid Men Round Neck Beige T-Shirt
+bm25,4,men round neck half sleeve cotton t-shirt,2,TSHFX28XHEBBFQ2E,9.032,Solid Men Round Neck Red T-Shirt
+bm25,4,men round neck half sleeve cotton t-shirt,3,TSHFX28XNA53YHA2,9.021,Solid Men Round Neck Orange T-Shirt
+bm25,4,men round neck half sleeve cotton t-shirt,4,TSHFX28XGTQFSW9E,9.021,Solid Men Round Neck White T-Shirt
+bm25,4,men round neck half sleeve cotton t-shirt,5,TSHFX28XJBVBKMJE,9.021,Solid Men Round Neck Pink T-Shirt
+bm25,4,men round neck half sleeve cotton t-shirt,6,TSHFX28XEAEHG5EB,8.987,Solid Men Round Neck Light Blue T-Shirt
+bm25,4,men round neck half sleeve cotton t-shirt,7,TSHFKG8EMETSYN5E,8.623,Striped Men Round Neck Multicolor T-Shirt  (Pack of 2)
+bm25,4,men round neck half sleeve cotton t-shirt,8,TSHFKQJRZXJ8ZHYB,8.623,Printed Men Round Neck Multicolor T-Shirt  (Pack of 2)
+bm25,4,men round neck half sleeve cotton t-shirt,9,TSHFKQJRDDGJJGT4,8.623,Printed Men Round Neck Multicolor T-Shirt  (Pack of 2)
+bm25,4,men round neck half sleeve cotton t-shirt,10,TSHFKQJRJKFM6UGW,8.623,Printed Men Round Neck Multicolor T-Shirt  (Pack of 2)
+bm25,5,reebok men t-shirt,1,TSHFZ3JCKDYHBD7Z,9.373,Solid Men Polo Neck Grey T-Shirt
+bm25,5,reebok men t-shirt,2,TSHFZ3JDATNEUUXN,9.358,Solid Men Polo Neck Black T-Shirt
+bm25,5,reebok men t-shirt,3,TSHFZ3JCZPSYU8WP,9.343,Solid Men Polo Neck Grey T-Shirt
+bm25,5,reebok men t-shirt,4,TSHFDT66HBJYY4SV,8.78,Solid Men Round Neck Blue T-Shirt
+bm25,5,reebok men t-shirt,5,TSHFDT66GDGHY5GK,8.763,Solid Men Round Neck Black T-Shirt
+bm25,5,reebok men t-shirt,6,TSHFCYP7WGESNMSZ,8.746,Printed Men Round or Crew Black T-Shirt
+bm25,5,reebok men t-shirt,7,TSHFZ3JEMYXNVUBW,8.626,Printed Men Round Neck Green T-Shirt
+bm25,5,reebok men t-shirt,8,TSHFVSVAYEKRPVUP,8.607,Sports Men Polo Neck Grey T-Shirt
+bm25,5,reebok men t-shirt,9,TSHFZ3JD2EEFQGUW,8.607,Solid Men Polo Neck Red T-Shirt
+bm25,5,reebok men t-shirt,10,TSHFZ3JDA7RHFZBR,8.589,Solid Men Round Neck Purple T-Shirt
+bm25,6,men raincoat,1,RNCFG4PHHGHSA3YH,14.254,Solid Men Raincoat
+bm25,6,men raincoat,2,RNCFGGTR5JWV8ES9,13.895,Solid Men Raincoat
+bm25,6,men raincoat,3,RNCFXRFSHREUUZCN,13.848,Solid Men Raincoat
+bm25,6,men raincoat,4,RNCFPBZEYAYH2HVZ,13.677,Solid Men Raincoat
+bm25,6,men raincoat,5,RNCFYMZ6AKKHRJC4,13.618,Solid Men Raincoat
+bm25,6,men raincoat,6,RNCFWZVGXMGUQDXW,13.543,Solid Men Raincoat
+bm25,6,men raincoat,7,RNCFQH2EFDZZBSQD,13.387,Solid Men Raincoat
+bm25,6,men raincoat,8,RNCFQH2EWKYGFFFG,13.387,Solid Men Raincoat
+bm25,6,men raincoat,9,RNCFQH2EYEMJZVVG,13.387,Solid Men Raincoat
+bm25,6,men raincoat,10,RNCFWHY4GZDVCKWT,13.299,Solid Men Raincoat
+bm25,7,white linen shirt,1,SHTFS2GZVGWEWBEN,12.911,Women Regular Fit Printed Slim Collar Casual Shirt
+bm25,7,white linen shirt,2,SHTFS2GMNEQEGA9C,12.048,Women Slim Fit Printed Casual Shirt
+bm25,7,white linen shirt,3,SHTFS2GMZSRZGM5W,12.048,Men Slim Fit Printed Casual Shirt
+bm25,7,white linen shirt,4,SHTFSH5VRDYPSGGK,10.462,Women Regular Fit Checkered Casual Shirt
+bm25,7,white linen shirt,5,SHTFGYHEWBFYCBXD,10.363,Women Regular Fit Checkered Casual Shirt
+bm25,7,white linen shirt,6,SHTFG3GFQAJ9YSQK,10.344,Women Regular Fit Checkered Casual Shirt
+bm25,7,white linen shirt,7,SHTFSH5VCM3ZB7JC,10.095,Women Slim Fit Checkered Casual Shirt
+bm25,7,white linen shirt,8,SHTFZ9XBC8RMRZHA,10.083,Women Slim Fit Polka Print Casual Shirt
+bm25,7,white linen shirt,9,SHTFZZFEJJFHS3Z5,10.058,Women Slim Fit Solid Spread Collar Formal Shirt
+bm25,7,white linen shirt,10,SHTFGFADVXS8XSPJ,9.898,Men Regular Fit Self Design Casual Shirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,1,SWSFMTNHEM5SNHVZ,2.044,Full Sleeve Solid Women Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,2,SWSFYTYMNTBNARUN,1.739,Full Sleeve Solid Women Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,3,SWSFZVTNGM4HG8BC,1.694,Full Sleeve Printed Women Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,4,SWSFNV7N26KC54MB,1.637,Full Sleeve Solid Women Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,5,SWSFVZRFS7GHGKSF,1.622,Full Sleeve Solid Women Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,6,SWSFVZRFCWPPZVGT,1.588,Full Sleeve Solid Men Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,7,SWSFVZRFDEQAKUH2,1.581,Full Sleeve Solid Men Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,8,SWSFVZRFTM4P9XGF,1.58,Full Sleeve Solid Men Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,9,SWSFMJGS8HVBPEH6,1.579,Full Sleeve Solid Women Sweatshirt
+tikitikiscore,1,women full sleeve sweatshirt cotton,10,SWSFVZRFVZ2SZ3HZ,1.577,Full Sleeve Solid Men Sweatshirt
+tikitikiscore,2,men slim jeans blue,1,JEAFSKYHHDQ2SDZQ,1.325,Tapered Fit Men Light Blue Jeans
+tikitikiscore,2,men slim jeans blue,2,JEAFJM2P2FQQJF3C,1.27,Slim Men Dark Blue Jeans
+tikitikiscore,2,men slim jeans blue,3,JEAFESND4QWQUBZD,1.245,Slim Men Blue Jeans
+tikitikiscore,2,men slim jeans blue,4,JEAEVJGUSXRNSHRY,1.219,Slim Men Dark Blue Jeans
+tikitikiscore,2,men slim jeans blue,5,JEAFSKYHUXWYKBZK,1.204,Slim Men Blue Jeans
+tikitikiscore,2,men slim jeans blue,6,JEAFSKYH539HTZB8,1.159,Tapered Fit Men Blue Jeans
+tikitikiscore,2,men slim jeans blue,7,JEAFSKYHRVZSABPR,1.083,Slim Men Blue Jeans
+tikitikiscore,2,men slim jeans blue,8,JEAFDWG9K7KPKHS8,1.067,Slim Men Blue Jeans
+tikitikiscore,2,men slim jeans blue,9,JEAFEKQZWYPVGYCJ,1.049,Slim Men Blue Jeans
+tikitikiscore,2,men slim jeans blue,10,JEAFQF6JBUSEXHVF,1.038,Slim Men Blue Jeans
+tikitikiscore,3,men polo t-shirt,1,TSHFZQBG3J5GREG2,1.38,Printed Men Polo Neck Black T-Shirt
+tikitikiscore,3,men polo t-shirt,2,TSHFUGZ9ZG5XN2FY,1.345,Solid Men Polo Neck Blue T-Shirt
+tikitikiscore,3,men polo t-shirt,3,TSHFZQBGBQGXVRHJ,1.333,Printed Men Polo Neck Grey T-Shirt
+tikitikiscore,3,men polo t-shirt,4,TSHFHJFC9MY2WFRU,1.316,Printed Men Polo Neck Multicolor T-Shirt
+tikitikiscore,3,men polo t-shirt,5,TSHFUGNWKWGPZ32S,1.265,Solid Men Polo Neck Black T-Shirt
+tikitikiscore,3,men polo t-shirt,6,TSHFUGKTXHZTUGCH,1.248,Striped Men Polo Neck Blue T-Shirt
+tikitikiscore,3,men polo t-shirt,7,TSHFGQGQZPVZHD2S,1.247,Solid Men Polo Neck Black T-Shirt
+tikitikiscore,3,men polo t-shirt,8,TSHFWVYDD2G5USN6,1.22,Solid Men Polo Neck Maroon T-Shirt
+tikitikiscore,3,men polo t-shirt,9,TSHFX3HD76TRJT3T,1.199,Solid Men Polo Neck Grey T-Shirt
+tikitikiscore,3,men polo t-shirt,10,TSHFVUXHTE5KH7RH,1.191,Solid Men Polo Neck Dark Blue T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,1,TSHFUSKPWUZSP6F6,0.783,Printed Men Round Neck Black T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,2,TSHFX28XGTQFSW9E,0.783,Solid Men Round Neck White T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,3,TSHFZWNF4YHDDGYE,0.764,Printed Men Round Neck Black T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,4,TSHFZ3GWH9YPA8JV,0.757,Printed Men Round Neck Black T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,5,TSHFYZ2YZZRQ3QSK,0.757,Printed Men Round Neck Black T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,6,TSHFX28XHEBBFQ2E,0.75,Solid Men Round Neck Red T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,7,TSHFZ9JUVMRHG6JH,0.745,Printed Men Round Neck Reversible Black T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,8,TSHFX28XEAEHG5EB,0.735,Solid Men Round Neck Light Blue T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,9,TSHFYY5UUZPCBMPB,0.718,Printed Men Round Neck Black T-Shirt
+tikitikiscore,4,men round neck half sleeve cotton t-shirt,10,TSHFY7FKF2MVFNHB,0.713,Printed Men Round Neck Black T-Shirt
+tikitikiscore,5,reebok men t-shirt,1,TSHFZ3JEMYXNVUBW,2.224,Printed Men Round Neck Green T-Shirt
+tikitikiscore,5,reebok men t-shirt,2,TSHFZ3JDZETJHQSR,1.941,Self Design Men Round Neck Blue T-Shirt
+tikitikiscore,5,reebok men t-shirt,3,TSHFZ3JE5NXNNYEQ,1.76,Self Design Men Round Neck Black T-Shirt
+tikitikiscore,5,reebok men t-shirt,4,TSHFZ3JEH6XVG9RK,1.713,Self Design Men Round Neck Purple T-Shirt
+tikitikiscore,5,reebok men t-shirt,5,TSHFGZXPNWQHFZF5,1.699,Self Design Men Round Neck Green T-Shirt
+tikitikiscore,5,reebok men t-shirt,6,TSHFZ3JERWXDMFPQ,1.636,Self Design Men Polo Neck Black T-Shirt
+tikitikiscore,5,reebok men t-shirt,7,TSHFZ3JENVNKEYNZ,1.625,Self Design Men Round Neck Green T-Shirt
+tikitikiscore,5,reebok men t-shirt,8,TSHFZ3JEY889XVFZ,1.596,Self Design Men Round Neck Grey T-Shirt
+tikitikiscore,5,reebok men t-shirt,9,TSHFZ3JD5XETHQB3,1.575,Solid Men Polo Neck Blue T-Shirt
+tikitikiscore,5,reebok men t-shirt,10,TSHFZ3JCZPSYU8WP,1.567,Solid Men Polo Neck Grey T-Shirt
+tikitikiscore,6,men raincoat,1,RNCFYMZ6AKKHRJC4,4.607,Solid Men Raincoat
+tikitikiscore,6,men raincoat,2,RNCFWHY4GZDVCKWT,4.511,Solid Men Raincoat
+tikitikiscore,6,men raincoat,3,RNCFXRFSHREUUZCN,4.314,Solid Men Raincoat
+tikitikiscore,6,men raincoat,4,RNCEAJYT52EVHB75,3.592,Solid Men Raincoat
+tikitikiscore,6,men raincoat,5,RNCFGGTR5JWV8ES9,3.485,Solid Men Raincoat
+tikitikiscore,6,men raincoat,6,RNCEGXFTJMYHVVYS,3.324,Solid Men Raincoat
+tikitikiscore,6,men raincoat,7,RNCFG4PHHGHSA3YH,3.301,Solid Men Raincoat
+tikitikiscore,6,men raincoat,8,RNCEGHQUQSGXYTPD,3.281,Solid Men Raincoat
+tikitikiscore,6,men raincoat,9,RNCFQH2EWKYGFFFG,3.152,Solid Men Raincoat
+tikitikiscore,6,men raincoat,10,RNCFQH2EYEMJZVVG,3.018,Solid Men Raincoat
+tikitikiscore,7,white linen shirt,1,SHTFS2GZVGWEWBEN,2.348,Women Regular Fit Printed Slim Collar Casual Shirt
+tikitikiscore,7,white linen shirt,2,SHTFZZFEJJFHS3Z5,1.873,Women Slim Fit Solid Spread Collar Formal Shirt
+tikitikiscore,7,white linen shirt,3,SHTFS2GMZSRZGM5W,1.814,Men Slim Fit Printed Casual Shirt
+tikitikiscore,7,white linen shirt,4,SHTFS2GMNEQEGA9C,1.813,Women Slim Fit Printed Casual Shirt
+tikitikiscore,7,white linen shirt,5,SHTFWAP7GH6TUU7F,1.689,Men Regular Fit Printed Button Down Collar Casual Shirt
+tikitikiscore,7,white linen shirt,6,SHTFW9RHGPJ9QWD6,1.606,Women Regular Fit Printed Spread Collar Formal Shirt
+tikitikiscore,7,white linen shirt,7,SHTFM32Z3JK3YS65,1.383,Men Slim Fit Printed Cut Away Collar Casual Shirt
+tikitikiscore,7,white linen shirt,8,SHTFP8H9XZKAFBDF,1.375,Women Regular Fit Checkered Formal Shirt
+tikitikiscore,7,white linen shirt,9,SHTFM3FTBU5HWFY9,1.331,Women Slim Fit Self Design Casual Shirt
+tikitikiscore,7,white linen shirt,10,SHTFZ9XBC8RMRZHA,1.225,Women Slim Fit Polka Print Casual Shirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,1,SWSFMJF98EY2FXBH,0.907,Full Sleeve Solid Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,2,SWSF9W528G7VEGCV,0.888,Full Sleeve Striped Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,3,SWSFXMFPPZGDQGMW,0.887,Full Sleeve Striped Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,4,SWSFNV7N26KC54MB,0.887,Full Sleeve Solid Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,5,SWSFVEV2PUBUWDDZ,0.886,Full Sleeve Solid Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,6,SWSF9W5YHFAAHNJZ,0.885,Full Sleeve Striped Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,7,SWSF9W4TTB2M9ZXT,0.884,Full Sleeve Striped Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,8,SWSF9W4TCKGPSSZZ,0.884,Full Sleeve Printed Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,9,SWSFXMFPDVRHYYPH,0.884,Full Sleeve Striped Women Sweatshirt
+word2vec_cosine,1,women full sleeve sweatshirt cotton,10,SWSF9W3ZHHJFQFJF,0.884,Full Sleeve Printed Women Sweatshirt
+word2vec_cosine,2,men slim jeans blue,1,JEAFSKYH539HTZB8,0.866,Tapered Fit Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,2,JEAFUZXT6BYHVNF2,0.864,Tapered Fit Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,3,JEAFUZXPUWKSKGVD,0.864,Tapered Fit Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,4,JEAFUZXRDZWSYWGG,0.864,Tapered Fit Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,5,JEAFSKYHRVZSABPR,0.863,Slim Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,6,JEAFSKYHTE76YWH7,0.863,Slim Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,7,JEAFXUHA5YF8WYQY,0.859,Tapered Fit Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,8,JEAFSKYHT8BHNDF3,0.856,Slim Men White Jeans
+word2vec_cosine,2,men slim jeans blue,9,JEAFUZXTXAP7HF4X,0.855,Tapered Fit Men Blue Jeans
+word2vec_cosine,2,men slim jeans blue,10,JEAFUZXUGWXHUF5F,0.854,Jogger Fit Men Blue Jeans
+word2vec_cosine,3,men polo t-shirt,1,TSHFPDP66HXSHGQ9,0.87,Typography Men Round Neck Dark Blue T-Shirt
+word2vec_cosine,3,men polo t-shirt,2,TSHFSYGTETVWM2TZ,0.87,Self Design Men Polo Neck Grey T-Shirt
+word2vec_cosine,3,men polo t-shirt,3,TSHFPMSYJMYNSQMZ,0.866,Typography Men Round Neck Black T-Shirt
+word2vec_cosine,3,men polo t-shirt,4,TSHF98JNPUBAZYKY,0.866,Striped Men Polo Neck Red T-Shirt
+word2vec_cosine,3,men polo t-shirt,5,TSHFME2FSQHZVFZQ,0.863,"Tie & Dye Men Polo Neck White, Orange, Black T-Shirt"
+word2vec_cosine,3,men polo t-shirt,6,TSHE7GY3HQGYY2JG,0.859,Argyle Men Polo Neck Red T-Shirt
+word2vec_cosine,3,men polo t-shirt,7,TSHFME2EDDCW37KK,0.859,Striped Men Polo Neck White T-Shirt
+word2vec_cosine,3,men polo t-shirt,8,TSHFME2FEYDYCXZX,0.858,Striped Men Polo Neck Black T-Shirt
+word2vec_cosine,3,men polo t-shirt,9,TSHFPDP6YHAYDVGZ,0.855,Striped Men Round Neck Dark Blue T-Shirt
+word2vec_cosine,3,men polo t-shirt,10,TSHFBU9XKCT9FZZ8,0.855,Tie & Dye Men Polo Neck Grey T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,1,TSHFGZHAHVNPANGY,0.937,Printed Men Round Neck Black T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,2,TSHFWMRUTHSBPXYE,0.933,Printed Men Round Neck Yellow T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,3,TSHFWUDVUVV3674W,0.933,Printed Men Round Neck White T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,4,TSHFGZH6ZG9YDFNJ,0.933,Printed Men Round Neck Black T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,5,TSHFWQADQK6URGRN,0.933,Printed Men Round Neck Yellow T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,6,TSHFGZHEQDRFWBKT,0.933,Printed Men Round Neck Red T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,7,TSHFWWV7ZTEQXCPJ,0.932,Printed Men Round Neck Green T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,8,TSHFWTGZGZFEFVHH,0.932,Printed Men Round Neck Yellow T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,9,TSHFWWWZFWENTXMY,0.932,Printed Men Round Neck Green T-Shirt
+word2vec_cosine,4,men round neck half sleeve cotton t-shirt,10,TSHFGZHB5WZZ4MCM,0.931,Printed Men Round Neck Black T-Shirt
+word2vec_cosine,5,reebok men t-shirt,1,TSHFZ3JDHZSGCFHT,0.804,Solid Men Round Neck Grey T-Shirt
+word2vec_cosine,5,reebok men t-shirt,2,TSHFZ3JDKTUKQF88,0.801,Solid Men Round Neck Purple T-Shirt
+word2vec_cosine,5,reebok men t-shirt,3,TSHFGZXPFGGUCW6J,0.801,Printed Men Round Neck Grey T-Shirt
+word2vec_cosine,5,reebok men t-shirt,4,TSHFZ3JDVAYZKCFC,0.797,Solid Men Round Neck Grey T-Shirt
+word2vec_cosine,5,reebok men t-shirt,5,TSHFZ3JDG4PAFKYA,0.796,Solid Men Round Neck Beige T-Shirt
+word2vec_cosine,5,reebok men t-shirt,6,TSHFK3W7SBYYGMSG,0.793,Solid Men Round Neck White T-Shirt
+word2vec_cosine,5,reebok men t-shirt,7,TSHFGZXP87UMTGFH,0.793,Color Block Men Round Neck Blue T-Shirt
+word2vec_cosine,5,reebok men t-shirt,8,TSHFDT66KCJEBWHF,0.784,Solid Men Round Neck Blue T-Shirt
+word2vec_cosine,5,reebok men t-shirt,9,TSHFZ3JDWYPC2NHT,0.777,Self Design Men Round Neck Maroon T-Shirt
+word2vec_cosine,5,reebok men t-shirt,10,TSHFZ3JDFM9YTJSC,0.774,Self Design Men Round Neck Grey T-Shirt
+word2vec_cosine,6,men raincoat,1,RNCF4YV4GZRYJY3A,0.768,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,2,RNCF4BYMQD53WHSF,0.768,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,3,RNCEAJYT52EVHB75,0.737,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,4,RNCEGHQUQSGXYTPD,0.722,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,5,RNCFXRFSHREUUZCN,0.707,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,6,RNCETDF8F7K5HMP3,0.683,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,7,RNCFWHY4GZDVCKWT,0.638,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,8,RNCFWZVGXMGUQDXW,0.602,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,9,RNCFGGTR5JWV8ES9,0.582,Solid Men Raincoat
+word2vec_cosine,6,men raincoat,10,RNCFYMZ6AKKHRJC4,0.573,Solid Men Raincoat
+word2vec_cosine,7,white linen shirt,1,SHTFSH5VRDYPSGGK,0.856,Women Regular Fit Checkered Casual Shirt
+word2vec_cosine,7,white linen shirt,2,SHTFSH5VCM3ZB7JC,0.849,Women Slim Fit Checkered Casual Shirt
+word2vec_cosine,7,white linen shirt,3,SHTFW9RHGPJ9QWD6,0.847,Women Regular Fit Printed Spread Collar Formal Shirt
+word2vec_cosine,7,white linen shirt,4,SHTFWAP7GH6TUU7F,0.814,Men Regular Fit Printed Button Down Collar Casual Shirt
+word2vec_cosine,7,white linen shirt,5,SHTFZZFEJJFHS3Z5,0.805,Women Slim Fit Solid Spread Collar Formal Shirt
+word2vec_cosine,7,white linen shirt,6,SHTFS2GMZSRZGM5W,0.795,Men Slim Fit Printed Casual Shirt
+word2vec_cosine,7,white linen shirt,7,SHTFS2GMNEQEGA9C,0.795,Women Slim Fit Printed Casual Shirt
+word2vec_cosine,7,white linen shirt,8,SHTEYFZAWQGZ2PPZ,0.789,Women Regular Fit Solid Mandarin Collar Casual Shirt
+word2vec_cosine,7,white linen shirt,9,SHTFS2GZVGWEWBEN,0.787,Women Regular Fit Printed Slim Collar Casual Shirt
+word2vec_cosine,7,white linen shirt,10,SHTFEKRXZHHHMSCS,0.777,Men Slim Fit Self Design Mandarin Collar Casual Shirt

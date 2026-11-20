@@ -1,0 +1,26 @@
+ranking_a,ranking_b,mean_shared_top10
+tfidf_sum (Part 2),tfidf_sum (Part 2),10
+tfidf_sum (Part 2),tf_idf_cosine,1.571
+tfidf_sum (Part 2),bm25,5.286
+tfidf_sum (Part 2),tikitikiscore,1.857
+tfidf_sum (Part 2),word2vec_cosine,1.429
+tf_idf_cosine,tfidf_sum (Part 2),1.571
+tf_idf_cosine,tf_idf_cosine,10
+tf_idf_cosine,bm25,2.714
+tf_idf_cosine,tikitikiscore,6.714
+tf_idf_cosine,word2vec_cosine,2.571
+bm25,tfidf_sum (Part 2),5.286
+bm25,tf_idf_cosine,2.714
+bm25,bm25,10
+bm25,tikitikiscore,3
+bm25,word2vec_cosine,1.714
+tikitikiscore,tfidf_sum (Part 2),1.857
+tikitikiscore,tf_idf_cosine,6.714
+tikitikiscore,bm25,3
+tikitikiscore,tikitikiscore,10
+tikitikiscore,word2vec_cosine,2.143
+word2vec_cosine,tfidf_sum (Part 2),1.429
+word2vec_cosine,tf_idf_cosine,2.571
+word2vec_cosine,bm25,1.714
+word2vec_cosine,tikitikiscore,2.143
+word2vec_cosine,word2vec_cosine,10

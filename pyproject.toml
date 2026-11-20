@@ -8,8 +8,15 @@ authors = [
 ]
 requires-python = ">=3.11"
 dependencies = [
+    "en-core-web-sm",
+    "gensim>=4.4.0",
+    "matplotlib>=3.11.2",
     "nltk>=3.10.4",
+    "numpy>=2.4.6",
     "pandas>=3.1.0",
+    "pypandoc-binary>=1.17",
+    "spacy>=3.8.18",
+    "wordcloud>=1.9.6",
 ]
 
 [project.scripts]
@@ -18,3 +25,6 @@ riaw-presentaci-nfinal = "riaw_presentaci_nfinal:main"
 [build-system]
 requires = ["uv_build>=0.12.7,<0.13.0"]
 build-backend = "uv_build"
+
+[tool.uv.sources]
+en-core-web-sm = { url = "https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl" }
