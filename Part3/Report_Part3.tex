@@ -24,10 +24,10 @@
 
 \section*{Setup}
 
-Code and results: \url{https://github.com/Vagaroto/RIAW-Presentaci-nFinal} (folder \file{part3/}).
+Code and results: \url{https://github.com/Vagaroto/RIAW-Presentaci-nFinal} (folder \file{Part3/}).
 \file{Base.py} holds the index, the conjunctive search and the evaluation; \file{Scoring.py} the rankings;
 \file{Figures.py} the evidence and figures of this report. Every number below cites the CSV file in
-\file{part3/results/} it comes from. Run \file{py -m part3.Scoring}, then \file{py -m part3.Figures} and
+\file{Part3/results/} it comes from. Run \file{py -m part3.Scoring}, then \file{py -m part3.Figures} and
 \file{py -m part3.build\_report} from the repository root.
 
 \textbf{Pipeline.} A query goes through the same preprocessing as the products (Part 1: normalization,
@@ -47,7 +47,7 @@ ranking only orders the candidates it receives, with the same inputs. Any rankin
 same candidates.
 
 \textbf{Missing labels lower the metrics of the new rankings.} Only the products of
-\file{validation\_labels.csv} and the top 20 of the Part 2 ranking (\file{part2/test\_labels.csv}) have a
+\file{validation\_labels.csv} and the top 20 of the Part 2 ranking (\file{Part2/test\_labels.csv}) have a
 label, and an unlabeled product counts as not relevant. A ranking that returns products the Part 2 ranking
 did not is therefore penalized even when those products are relevant. All metrics in this report are
 read with that in mind (Section 1.5, Table~\ref{tab:p10}); we did not label the extra results, since the
